@@ -43,7 +43,7 @@ To handle flash traffic when top-tier brands (e.g., Bonanza Satrangi) go live, t
 ├── src/
 │   ├── controllers/    # Request handlers (Auth, Wallet, Inventory)
 │   ├── middleware/     # Auth guards, role validation (User, Admin, B2B Vendor)
-│   ├── models/         # PostgreSQL schema definition definitions
+│   ├── models/         # MongoDb schema definition definitions
 │   ├── routes/         # Express REST API route definitions
 │   ├── services/       # Core business logic (Bidding handling, payment verifications)
 │   ├── sockets/        # Socket.io event handlers (bid:submit, chat:message)
