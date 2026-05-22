@@ -1,0 +1,23 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "VaultMaal.com"
+  ],
+  "homepage": "https://github.com/imuhammadQasim/VaultMaal-Backend#readme",
+  "bugs": {
+    "url": "https://github.com/imuhammadQasim/VaultMaal-Backend/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/imuhammadQasim/VaultMaal-Backend.git"
+  },
+  "license": "ISC",
+  "author": "M.Qasim Khalid | Hassan Tariq",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "nodemon server.js"
+  }
+}
